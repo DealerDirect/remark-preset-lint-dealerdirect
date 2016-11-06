@@ -1,0 +1,29 @@
+{
+  "name": "remark-preset-lint-dealerdirect",
+  "version": "0.1.0",
+  "description": "Remark preset to configure remark-lint to match our coding style guidelines",
+  "license": "MIT",
+  "keywords": [
+    "remark",
+    "preset",
+    "lint",
+    "markdown",
+    "md",
+    "dealerdirect"
+  ],
+  "repository": "https://github.com/dealerdirect/remark-preset-lint-dealerdirect",
+  "bugs": "https://github.com/dealerdirect/remark-preset-lint-dealerdirect/issues",
+  "author": "Franck Nijhof <f.nijhof@dealerdirect.nl> (http://www.workingatdealerdirect.nl)",
+  "contributors": [
+    "Franck Nijhof <f.nijhof@dealerdirect.nl> (http://www.workingatdealerdirect.nl)"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "remark-lint": "^5.2.0",
+    "remark-lint-books-links": "^1.0.0",
+    "remark-lint-no-empty-sections": "^1.0.0",
+    "remark-lint-no-url-trailing-slash": "^2.0.0"
+  }
+}
