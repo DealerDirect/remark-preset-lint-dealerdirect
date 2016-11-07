@@ -12,13 +12,17 @@ Dealerdirect Remark configuration preset for linting Markdown documents.
 
 ## Installation
 
-First you'll need to install Remark-cli:
+First you'll need to install the following dependencies:
 
 ```bash
 npm install --save-dev remark-cli
+npm install --save-dev remark-lint
+npm install --save-dev remark-lint-books-links
+npm install --save-dev remark-lint-no-empty-sections
+npm install --save-dev remark-lint-no-url-trailing-slash
 ```
 
-Next, install this package.
+Next, install this package:
 
 ```bash
 npm install --save-dev remark-preset-lint-dealerdirect

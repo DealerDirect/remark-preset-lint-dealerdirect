@@ -30,7 +30,7 @@ module.exports.plugins = {
     linkTitleStyle: '"',
     listItemBulletIndent: true,
     listItemContentIndent: true,
-    listItemIndent: 'tab-size',
+    listItemIndent: 'space',
     listItemSpacing: true,
     maximumHeadingLength: 60,
     maximumLineLength: 120,
