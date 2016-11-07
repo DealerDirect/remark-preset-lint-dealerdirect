@@ -35,13 +35,9 @@ Create a `.remarkrc` file in the root of your project. Ensure it at least contai
 
 ```json
 {
-  "plugins": {
-    "lint": {
-      "presets": [
-        "remark-preset-lint-dealerdirect"
-      ]
-    },
-  }
+  "presets": [
+    "remark-preset-lint-dealerdirect"
+  ]
 }
 ```
 
