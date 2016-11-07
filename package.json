@@ -1,6 +1,6 @@
 {
   "name": "remark-preset-lint-dealerdirect",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Remark preset to configure remark-lint to match our coding style guidelines",
   "license": "MIT",
   "keywords": [

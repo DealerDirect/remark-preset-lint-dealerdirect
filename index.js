@@ -15,7 +15,7 @@ module.exports.plugins = {
     },
     checkboxContentIndent: true,
     codeBlockStyle: 'fenced',
-    definitionCase: true,
+    definitionCase: false,
     definitionSpacing: true,
     emphasisMarker: '_',
     fencedCodeFlag: true,
